@@ -1,3 +1,3 @@
-func calculate(x,y){
+function calculate(x,y){
   return x * y;
-}
+};
